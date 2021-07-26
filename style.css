@@ -1,0 +1,75 @@
+#header {
+    background: linear-gradient(#e5ff00 0%,#09ff00 100%);
+    width: 80%;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1%;
+}
+
+#training {
+    border: white 3px solid;
+    width: 60%;
+}
+
+#rbody {
+    width: 40%;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0.5%;
+    color: white;
+    background-color: rgba(87, 87, 87, 0.678);
+    margin-top: 18%;
+}
+
+#phone {
+    font-size: 30px;
+}
+
+#spoon {
+    font-size: 20px;
+}
+
+#bottle {
+    font-size: 30px;
+}
+
+#watch {
+    font-size: 20px;
+}
+
+#phone:hover {
+    font-size: 20px;
+}
+
+#spoon:hover {
+    font-size: 30px;
+}
+
+#bottle:hover {
+    font-size: 20px;
+}
+
+#watch:hover {
+    font-size: 30px;
+}
+
+#mar {
+    position: fixed;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    background-color: rgba(87, 87, 87, 0.678);
+    margin-top: 1%;
+    font-size: 20px;
+    margin-left: -50%;
+}
+
+#aop1 {
+    color: white;
+}
+
+#aop2 {
+    color: white;
+}
+
+canvas {
+    margin-top: 3%;
+}
